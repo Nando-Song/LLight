@@ -1,0 +1,10 @@
+D:\Git\elight.mvc\project\Elight.Infrastructure\bin\Debug\Elight.Infrastructure.dll
+D:\Git\elight.mvc\project\Elight.Infrastructure\bin\Debug\Elight.Infrastructure.pdb
+D:\Git\elight.mvc\project\Elight.Infrastructure\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Git\elight.mvc\project\Elight.Infrastructure\bin\Debug\Newtonsoft.Json.dll
+D:\Git\elight.mvc\project\Elight.Infrastructure\bin\Debug\NLog.dll
+D:\Git\elight.mvc\project\Elight.Infrastructure\bin\Debug\Newtonsoft.Json.xml
+D:\Git\elight.mvc\project\Elight.Infrastructure\bin\Debug\NLog.xml
+D:\Git\elight.mvc\project\Elight.Infrastructure\obj\Debug\Elight.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Git\elight.mvc\project\Elight.Infrastructure\obj\Debug\Elight.Infrastructure.dll
+D:\Git\elight.mvc\project\Elight.Infrastructure\obj\Debug\Elight.Infrastructure.pdb

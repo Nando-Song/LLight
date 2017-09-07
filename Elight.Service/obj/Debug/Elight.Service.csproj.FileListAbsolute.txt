@@ -1,0 +1,5 @@
+D:\Git\elight.mvc\project\Elight.Web\bin\Elight.Service.dll
+D:\Git\elight.mvc\project\Elight.Web\bin\Elight.Service.pdb
+D:\Git\elight.mvc\project\Elight.Service\obj\Debug\Elight.Service.csprojResolveAssemblyReference.cache
+D:\Git\elight.mvc\project\Elight.Service\obj\Debug\Elight.Service.dll
+D:\Git\elight.mvc\project\Elight.Service\obj\Debug\Elight.Service.pdb

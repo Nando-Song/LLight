@@ -1,0 +1,9 @@
+D:\Git\elight.mvc\project\Elight.IService\bin\Debug\Elight.IService.dll
+D:\Git\elight.mvc\project\Elight.IService\bin\Debug\Elight.IService.pdb
+D:\Git\elight.mvc\project\Elight.IService\bin\Debug\Elight.Entity.dll
+D:\Git\elight.mvc\project\Elight.IService\bin\Debug\Newtonsoft.Json.dll
+D:\Git\elight.mvc\project\Elight.IService\bin\Debug\Elight.Entity.pdb
+D:\Git\elight.mvc\project\Elight.IService\bin\Debug\Newtonsoft.Json.xml
+D:\Git\elight.mvc\project\Elight.IService\obj\Debug\Elight.IService.csprojResolveAssemblyReference.cache
+D:\Git\elight.mvc\project\Elight.IService\obj\Debug\Elight.IService.dll
+D:\Git\elight.mvc\project\Elight.IService\obj\Debug\Elight.IService.pdb

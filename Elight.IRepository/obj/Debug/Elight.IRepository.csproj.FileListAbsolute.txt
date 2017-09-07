@@ -1,0 +1,9 @@
+D:\Git\elight.mvc\project\Elight.IRepository\bin\Debug\Elight.IRepository.dll
+D:\Git\elight.mvc\project\Elight.IRepository\bin\Debug\Elight.IRepository.pdb
+D:\Git\elight.mvc\project\Elight.IRepository\bin\Debug\Elight.Entity.dll
+D:\Git\elight.mvc\project\Elight.IRepository\bin\Debug\Newtonsoft.Json.dll
+D:\Git\elight.mvc\project\Elight.IRepository\bin\Debug\Elight.Entity.pdb
+D:\Git\elight.mvc\project\Elight.IRepository\bin\Debug\Newtonsoft.Json.xml
+D:\Git\elight.mvc\project\Elight.IRepository\obj\Debug\Elight.IRepository.csprojResolveAssemblyReference.cache
+D:\Git\elight.mvc\project\Elight.IRepository\obj\Debug\Elight.IRepository.dll
+D:\Git\elight.mvc\project\Elight.IRepository\obj\Debug\Elight.IRepository.pdb
